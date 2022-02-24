@@ -9,3 +9,4 @@
 
 rootProject.name = "consorcio-api"
 include("domain")
+include("api")
